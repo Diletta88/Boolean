@@ -1,0 +1,83 @@
+body {
+  background-image:url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Questrial', sans-serif;
+}
+
+
+.container {
+  background-color:rgba(0, 0, 0, 0.5);
+  border-radius: 30px;
+  width: 1100px;
+  margin:auto;
+  padding: 100px;
+  margin-top: 40px;
+}
+
+header {
+  text-align:center;
+}
+
+.logo {
+  width: 300px;
+}
+
+h1 {
+  font-family: 'Questrial', sans-serif;
+  font-size: 40px;
+  color: #00dd00;
+}
+
+nav {
+  background-color: #00dd00;
+  height: auto;
+  padding: 10px;
+  text-align:center;
+}
+
+main div {
+margin-top: 20px;
+}
+
+span {
+ color: white;
+ font-size: 30px;
+ font-weight: 900;
+ line-height: 20px;
+}
+
+p {
+  color: white;
+  line-height: 40px;
+}
+
+.linea1{
+  background-color: orange;
+  border-color: orange;
+  border-radius: 5px;
+  height: 30px;
+  width: 40%;
+  margin-left: 0;
+  margin-top: -20px;
+}
+
+.linea2{
+  background-color: #00dd00;
+  border-color: #00dd00;
+  border-radius: 5px;
+  height: 30px;
+  width: 60%;
+  margin-left: 0;
+  margin-top: -20px;
+}
+
+.linea3{
+  background-color: red;
+  border-color: red;
+  border-radius: 5px;
+  height: 30px;
+  width: 20%;
+  margin-left: 0;
+  margin-top: -20px;
+}
